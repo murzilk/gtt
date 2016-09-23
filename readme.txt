@@ -1,3 +1,3 @@
  # Me lesson #
 ---------------
-commit
+git status

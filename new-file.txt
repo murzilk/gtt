@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-add new file
-=======
-add new file
-plusing
->>>>>>> new_file
